@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="18327" started-at="2018-05-24T20:33:05Z" finished-at="2018-05-24T20:33:23Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="18327" started-at="2018-05-24T20:33:05Z" finished-at="2018-05-24T20:33:23Z">
+      <class name="SimpleTest">
+        <test-method status="PASS" signature="openMaimPage()[pri:0, instance:SimpleTest@6537cf78]" name="openMaimPage" duration-ms="18327" started-at="2018-05-24T23:33:05Z" finished-at="2018-05-24T23:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMaimPage -->
+      </class> <!-- SimpleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
